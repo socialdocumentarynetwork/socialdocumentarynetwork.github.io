@@ -95,3 +95,12 @@ text-align: right;
   color: white;
   width: 140px;
   }
+
+  a.homelinks:link {
+    color: white;
+    text-decoration: none;
+  }
+  a.homelinks:hover {
+    color:#2f819f;
+    text-decoration: none;
+  }
