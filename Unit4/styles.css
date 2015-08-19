@@ -47,17 +47,6 @@ text-transform: uppercase;
 text-align: right;
 }
 
-
-
-
-.clearfix:after { 
-   content: "."; 
-   visibility: hidden; 
-   display: block; 
-   height: 0; 
-   clear: both;
-}
-
 .homehr{
   margin-top: 8px;
   width: 50px;
@@ -140,6 +129,7 @@ text-align: right;
 
 #bottom{
   position: fixed;
+  height: 50px;
   bottom: 0;  
   left: 0;
   right: 0;
